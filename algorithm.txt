@@ -1,1 +1,16 @@
-THINK before you code...
+1)  declare a class named MarioKartPlayer
+2)  declare private attributes (playerName, character, speed) to represent the player
+information
+3)  define a constructor that initializes the player's name, character, and starting speed.
+4)  define a boosting method that simulates a speed boost by increasing the player's speed and printing a message indicating the boost
+5)  define a displayInfo method to display the player's information
+6)  declare a public class named MarioKartGame
+7)  instantiate two MarioKartPlayer objects player1 and player2 with specific names, characters, and starting speeds
+8)  display the initial information of both players using the displayInfo method
+9)  simulate a boost for each player using the boost method
+10) display the updated information of both players after the boost
+11) create two instances of the MarioKartPlayer class player1 with Mario as the character and a starting speed of 50, and player2 with Luigi as the character and a starting speed of 45
+12) display the initial information of both players
+13) simulate a boost for each player increasing their speeds
+14) display the updated information of both players afters after the boost
+
