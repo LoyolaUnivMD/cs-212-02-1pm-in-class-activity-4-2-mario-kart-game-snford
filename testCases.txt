@@ -1,1 +1,20 @@
-Test cases go here. 
+Initial Player Information:
+Player: Player 1
+Character: Mario
+Speed: 50
+--------------------
+Player: Player 2
+Character: Luigi
+Speed: 45
+--------------------
+Player 1 boosted! Speed increased to 60
+Player 2 boosted! Speed increased to 55
+Updated Player Information after Boost:
+Player: Player 1
+Character: Mario
+Speed: 60
+--------------------
+Player: Player 2
+Character: Luigi
+Speed: 55
+--------------------
